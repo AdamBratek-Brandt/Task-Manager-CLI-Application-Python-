@@ -15,4 +15,4 @@ A command-line task management application built with Python.
 - CLI
 
 ## How to run
-python main.py
+python task_manager.py
