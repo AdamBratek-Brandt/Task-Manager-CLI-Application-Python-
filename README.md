@@ -1,6 +1,6 @@
 # Python CLI Task Manager
 
-A command-line task management application built with Python.
+A command-line task management application built with Python that allows users to manage tasks with persistent storage.
 
 ## Features
 - Add, edit, remove tasks
